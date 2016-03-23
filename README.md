@@ -2,11 +2,13 @@
 Big data project for competition Mozgalo
 
 # Requirements
+------------
 Anaconda
-https://www.continuum.io/downloads
+- https://www.continuum.io/downloads
 
 # Libs used
-numpy
-matplotlib
-pandas
-seaborn
+------------
+- numpy
+- matplotlib
+- pandas
+- seaborn
