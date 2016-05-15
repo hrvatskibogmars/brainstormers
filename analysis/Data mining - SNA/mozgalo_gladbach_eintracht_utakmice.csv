@@ -1,0 +1,31 @@
+ID,domaci,gosti,domaciFormacija,gostiFormacija,gameDate,gameTime,stadium,referee,climate,luna,temperature,viewers,domaciID,gostiID,homeTeamFormacijaID,awayTeamFormacijaID,Pogodaka_domaci,Score_domaci,Pogodaka_gosti,Score_gosti
+6770,Eintracht Frankfurt,FC Ingolstadt 04,4312,433,2016.03.05 00:00:00,15:30:00,Commerzbank-Arena,358,Oblacno,Dan,5,40000,10347,10453,18,21,1,1,1,1
+6765,VfL Wolfsburg,Borussia Mgladbach,4312,352,2016.03.05 00:00:00,15:30:00,Volkswagen Arena,357,Oblacno,Dan,8,29224,10653,10307,18,29,2,3,1,0
+6756,Hertha BSC,Eintracht Frankfurt,442,4231,2016.03.02 00:00:00,20:00:00,Olympiastadion Berlin,24,Vedro,Dan,6,36608,10437,10347,20,12,2,3,0,0
+6755,Borussia Mgladbach,VfB Stuttgart,361,4231,2016.03.02 00:00:00,20:00:00,Stadion im Borussia-Park,11,Oblacno,Noc,4,43627,10307,10646,2,12,4,3,0,0
+6730,Eintracht Frankfurt,FC Schalke 04,4312,4231,2016.02.28 00:00:00,19:30:00,Commerzbank-Arena,21,Oblacno,Noc,4,43500,10347,10576,18,12,0,1,0,1
+6725,FC Augsburg,Borussia Mgladbach,4231,442,2016.02.28 00:00:00,15:30:00,WWK ARENA,24,Oblacno,Dan,5,29665,10269,10307,12,20,2,1,2,1
+6685,Borussia Mgladbach,1. FC Koln,442,4231,2016.02.20 00:00:00,15:30:00,Stadion im Borussia-Park,24,Oblacno,Dan,10,52226,10307,10476,20,12,1,3,0,0
+6681,Eintracht Frankfurt,Hamburger SV,4231,4231,2016.02.19 00:00:00,20:30:00,Commerzbank-Arena,13,Kisa,Noc,1,47200,10347,10419,12,12,0,1,0,1
+6652,Hamburger SV,Borussia Mgladbach,4231,442,2016.02.14 00:00:00,15:30:00,Volksparkstadion Hamburg,22,Kisa-sunce,Dan,4,56706,10419,10307,12,20,3,3,2,0
+6647,1. FC Koln,Eintracht Frankfurt,343,451,2016.02.13 00:00:00,18:30:00,RheinEnergieStadion,25,Kisa,Noc,5,49200,10476,10347,1,22,3,3,1,0
+6609,Eintracht Frankfurt,VfB Stuttgart,4231,451,2016.02.06 00:00:00,15:30:00,Commerzbank-Arena,9,Sunce-oblacno,Dan,10,42000,10347,10646,12,22,2,0,4,3
+6603,Borussia Mgladbach,SV Werder Bremen,442,442,2016.02.05 00:00:00,20:30:00,Stadion im Borussia-Park,358,Oblacno,Noc,9,51569,10307,10677,20,20,5,3,1,0
+6573,FC Augsburg,Eintracht Frankfurt,4231,4231,2016.01.30 00:00:00,15:30:00,WWK ARENA,358,Vedro,Dan,8,28653,10269,10347,12,12,0,1,0,1
+6568,1. FSV Mainz 05,Borussia Mgladbach,4231,451,2016.01.29 00:00:00,20:30:00,Coface Arena,360,Oblacno,Noc,10,32015,10388,10307,12,22,1,3,0,0
+6553,Eintracht Frankfurt,VfL Wolfsburg,4411,4411,2016.01.24 00:00:00,15:30:00,Commerzbank-Arena,24,Oblacno,Dan,4,35000,10347,10653,16,16,3,3,2,0
+6545,Borussia Mgladbach,Borussia Dortmund,442,433,2016.01.23 00:00:00,18:30:00,Stadion im Borussia-Park,21,Oblacno,Noc,4,54010,10307,10303,20,21,1,0,3,3
+6462,Borussia Mgladbach,SV Darmstadt 98,442,451,2015.12.20 00:00:00,17:30:00,Stadion im Borussia-Park,360,Kisa,Dan,11,53610,10307,10329,20,22,3,3,2,0
+6450,Eintracht Frankfurt,SV Werder Bremen,4411,442,2015.12.19 00:00:00,15:30:00,Commerzbank-Arena,13,Oblacno,Dan,8,46000,10347,10677,16,20,2,3,1,0
+6425,Borussia Dortmund,Eintracht Frankfurt,433,451,2015.12.13 00:00:00,17:30:00,Signal-Iduna-Park,114,Oblacno,Dan,7,81359,10303,10347,21,22,4,3,1,0
+6418,Bayer 04 Leverkusen,Borussia Mgladbach,442,352,2015.12.12 00:00:00,18:30:00,BayArena,248,Vedro,Noc,8,30210,10281,10307,20,29,5,3,0,0
+6403,Manchester City,Borussia Mgladbach,4231,442,2015.12.08 00:00:00,20:45:00,Etihad,348,Vedro,Noc,7,41829,9259,10307,12,20,4,3,2,0
+6398,Eintracht Frankfurt,SV Darmstadt 98,4231,4231,2015.12.06 00:00:00,17:30:00,Commerzbank-Arena,21,Vedro,Predvecer,8,51500,10347,10329,12,12,0,0,1,3
+6385,Borussia Mgladbach,FC Bayern Munchen,352,433,2015.12.05 00:00:00,15:30:00,Stadion im Borussia-Park,25,Oblacno,Dan,9,54010,10307,10285,29,21,3,3,1,0
+6370,1. FSV Mainz 05,Eintracht Frankfurt,4231,4231,2015.11.28 00:00:00,15:30:00,Coface Arena,243,Vedro,Dan,7,33098,10388,10347,12,12,2,3,1,0
+6364,TSG 1899 Hoffenheim,Borussia Mgladbach,4231,442,2015.11.28 00:00:00,15:30:00,Wirsol Rhein-Neckar-Arena,7,Oblacno,Dan,4,30150,10442,10307,12,20,3,1,3,1
+6347,Borussia Mgladbach,Sevilla CF,442,4231,2015.11.25 00:00:00,20:45:00,Stadion im Borussia-Park,61,Oblacno,Noc,4,45177,10307,16175,20,12,4,3,2,0
+6308,Eintracht Frankfurt,Bayer 04 Leverkusen,4231,4231,2015.11.21 00:00:00,15:30:00,Commerzbank-Arena,22,Kisa,Dan,5,47500,10347,10281,12,12,1,0,3,3
+6307,Borussia Mgladbach,Hannover 96,442,4231,2015.11.21 00:00:00,15:30:00,Stadion im Borussia-Park,21,Vedro,Dan,4,52214,10307,10423,20,12,2,3,1,0
+6261,Borussia Mgladbach,FC Ingolstadt 04,442,433,2015.11.07 00:00:00,15:30:00,Stadion im Borussia-Park,112,Vedro,Dan,14,52331,10307,10453,20,21,0,1,0,1
+6258,TSG 1899 Hoffenheim,Eintracht Frankfurt,442,4411,2015.11.07 00:00:00,15:30:00,Wirsol Rhein-Neckar-Arena,24,Vedro,Dan,12,30150,10442,10347,20,16,0,1,0,1
