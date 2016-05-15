@@ -1,0 +1,21 @@
+ID,actionIDNaziv,actionOptionIDN,playerID,actionPosX1,actionPosY1,actionPosX2,actionPosY2,domaci,gosti,name
+6257253,CENTARSUT,LOS,196661,1097,145.32,1156,364.32,TSG 1899 Hoffenheim,Eintracht Frankfurt,A. Ignjovski
+6257315,CENTARSUT,ODLICAN,196661,1208,82.32,1227,361.32,TSG 1899 Hoffenheim,Eintracht Frankfurt,A. Ignjovski
+6259857,CENTARSUT,PO ZEMLJI,196633,1222,97.32,1140,357.32,TSG 1899 Hoffenheim,Eintracht Frankfurt,B. Oczipka
+6260440,CENTARSUT,DOBAR,196633,1071,58.32,1155,454.32,TSG 1899 Hoffenheim,Eintracht Frankfurt,B. Oczipka
+6314088,CENTARSUT,DOBAR,196661,1099,99.32,1225,464.32,Eintracht Frankfurt,Bayer 04 Leverkusen,A. Ignjovski
+6470207,CENTARSUT,UHVACEN,77888,1274,95.32,1262,384.32,Borussia Dortmund,Eintracht Frankfurt,H. Seferovic
+6602260,CENTARSUT,DOBAR,1770,1159,70.32,1172,466.32,Eintracht Frankfurt,VfL Wolfsburg,S. Huszti
+6638462,CENTARSUT,DOBAR,1770,1069,75.32,1219,417.32,FC Augsburg,Eintracht Frankfurt,S. Huszti
+6638819,CENTARSUT,DOBAR,1770,1265,82.32,1212,502.32,FC Augsburg,Eintracht Frankfurt,S. Huszti
+6639767,CENTARSUT,ODLICAN,196633,1150,187.32,1219,426.32,FC Augsburg,Eintracht Frankfurt,B. Oczipka
+6641148,CENTARSUT,DOBAR,196633,1057,86.32,1160,502.32,FC Augsburg,Eintracht Frankfurt,B. Oczipka
+6676405,CENTARSUT,LOS,7466,1237,116.32,1238,345.32,Eintracht Frankfurt,VfB Stuttgart,A. Ben-Hatira
+6681436,CENTARSUT,DOBAR,196633,1152,142.32,1203,445.32,Eintracht Frankfurt,VfB Stuttgart,B. Oczipka
+6830267,CENTARSUT,DOBAR,1770,1252,63.32,1206,363.32,Eintracht Frankfurt,FC Schalke 04,S. Huszti
+6830969,CENTARSUT,DOBAR,196633,1076,76.32,1180,320.32,Eintracht Frankfurt,FC Schalke 04,B. Oczipka
+6890545,CENTARSUT,DOBAR,1770,1243,93.32,1114,492.32,Eintracht Frankfurt,FC Ingolstadt 04,S. Huszti
+6890867,CENTARSUT,DOBAR,5335,1153,173.32,1189,437.32,Eintracht Frankfurt,FC Ingolstadt 04,M. Hasebe
+6893867,CENTARSUT,PO ZEMLJI,206101,1082,67.32,1185,334.32,Eintracht Frankfurt,FC Ingolstadt 04,G. Waldschmidt
+6893988,CENTARSUT,DOBAR,22870,1142,152.32,1228,380.32,Eintracht Frankfurt,FC Ingolstadt 04,M. Fabian
+6895704,CENTARSUT,PO ZEMLJI,1770,1125,143.32,1200,371.32,Eintracht Frankfurt,FC Ingolstadt 04,S. Huszti
